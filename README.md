@@ -33,6 +33,6 @@
 
 |                               계산기                                    |                               리듬 게임                                 | 
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| <img src="./images/bb.png" alt="Sample Page" height="250px" /> | <img src="./images/bbb.png" alt="Sample Page" height="250px" /> |
+| <img src="./images/dd.png" alt="Sample Page" height="250px" /> | <img src="./images/ddd.png" alt="Sample Page" height="250px" /> |
 
 <br />
